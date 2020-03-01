@@ -1,0 +1,10 @@
+const FIVE = 5;
+const THRE = 3;
+let a1 = FIVE + THRE;
+let a2 = FIVE - THRE;
+let a3 = FIVE * THRE;
+let a4 = FIVE / THRE;
+console.log(a1);
+console.log(a2);
+console.log(a3);
+console.log(a4);
