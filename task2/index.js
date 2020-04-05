@@ -1,0 +1,10 @@
+let sum = 1 + 2;
+let yo = 21;
+let whiteTigers = 130;
+let whiteBears = 550;
+let panda = 130;
+const EARTH_S = 196900000;
+const ANIMAL = `TIGER`;
+const JUPITER_R = 43441;
+const EARTH_YO = 4543e9;
+const SATELLITE = `MOON`;
